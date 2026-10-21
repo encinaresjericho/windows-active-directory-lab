@@ -1,10 +1,6 @@
 # Windows & Active Directory Lab
 
-*A reference Windows systems administration lab using Oracle VM VirtualBox.*
-
 This project documents a small Active Directory environment with one Windows Server domain controller and two Windows client virtual machines. The reference design uses the domain `adlab.test` and subnet `192.168.10.0/24` to demonstrate centralized identity management, DNS, DHCP, Group Policy, domain joining, and structured troubleshooting.
-
-The configuration tables and troubleshooting case studies use a consistent example environment.
 
 ## Project Overview
 
